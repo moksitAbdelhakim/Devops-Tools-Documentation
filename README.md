@@ -9,7 +9,7 @@
 ### Languages and Tools:
 
 <p align="left">
-<img  alt="Terminal" width="30px" src="https://www.kindpng.com/picc/m/153-1538018_terminal-icon-hd-png-download.png" />
+<img  alt="Terminal" width="30px" src="https://bashlogo.com/img/logo/jpg/full_colored_dark.jpg" />
 <img  alt="ubuntu" width="35px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 <img  alt="redhat" width="35px" src="icons/redhat.png">
 <img  alt="debian" width="35px" src="icons/debian.png">
